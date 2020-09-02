@@ -67,7 +67,7 @@ https://codepen.io/EthanRoman00/pen/NWNaWaW
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
          idk
     34. Why should I use version control? 
-         idk
+         it is the safer way
     35. How often should I commit to github?
          whener a change is made
     36. What is the command we would use to push our repo up to github?
@@ -82,6 +82,6 @@ Stretch Questions
     2. What happens when an element is positioned absolutely? 
         it cant be changed
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
-        use a width % instead of a fixed size 
+        use flexbox model 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
